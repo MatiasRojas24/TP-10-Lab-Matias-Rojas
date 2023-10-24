@@ -13,7 +13,7 @@ public class Main {
 
         System.out.println("Bienvenido");
         do{
-            System.out.println("¿Que desea hacer?");
+            System.out.println("¿Qué desea hacer?");
             System.out.println("1. Guardar una marca de auto");
             System.out.println("0. Salir");
             option = sc.nextByte();
